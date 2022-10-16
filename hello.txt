@@ -17,4 +17,4 @@ hello atZhongGong! hello git!
 hello atZhongGong! hello git!
 hello atZhongGong! hello git!
 hello atZhongGong! hello git!
-hello atZhongGong! hello git!
+hello atZhongGong! hello git! hot-fix test 
